@@ -15,14 +15,3 @@ function johnLennonFacts (facts){
   }
   return arrayFacts
 }
-
-
-function johnLennonFacts(facts) {
-  var results = [];
-  var count = 0;
-  while (count < facts.length) {
-    results.push(facts[count] + "!!!");
-    count++;
-  }
-  return results;
-}
