@@ -20,6 +20,6 @@ function iLoveTheBeatles(num){
   var arrayBeatles = [];
   do {
     arrayBeatles.push("I love the Beatles!"); num++
-  } while ([condition]);
+  } while ([]);
   }
   
